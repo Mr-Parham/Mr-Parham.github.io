@@ -1,7 +1,7 @@
 # Mr-Parham
 
 
-## Welcome to Mr-Parham Pages
+## Welcome to Mr-Parham Repositories
 #### 💻 ┃ Parham's Projects And Source Codes
 ###### Here is where you can find source codes !
 ##### Languages
